@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+}
+li {
+    display: inline;
+}
+a{
+    text-decoration: none;
+} 
+
+body {background-color: rgb(226, 44, 187)}
